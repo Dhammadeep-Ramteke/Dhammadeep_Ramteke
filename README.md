@@ -1,24 +1,46 @@
-# Hi, I'm Dhammadeep Ramteke 👋
+👋 Hey, I'm Dhammadeep Ramteke
+📊 Aspiring Data Analyst | ⚡ Electrical Engineering Student
+I am a final-year B.Tech Electrical Engineering student. I am passionate about switching to Data Analytics and using my engineering background to solve complex problems. I love finding hidden patterns in data to help make better decisions.
 
-### Aspiring Data Analyst | B.Tech Electrical Engineering Student
 
-I am a final-year student at P.E.S. [cite_start]College of Engineering with a passion for transitioning into Data Analytics[cite: 17, 18]. [cite_start]My engineering background helps me apply logic and problem-solving to interpret patterns in data[cite: 19].
 
-- [cite_start]🎓 **Education:** B.Tech in Electrical Engineering (2022-2026)[cite: 39].
-- [cite_start]💡 **Interests:** Data Science, AI for Sustainability, and Machine Learning[cite: 21, 28, 37].
-- [cite_start]🛠️ **Tech Stack:** Python, SQL, and Microsoft Excel[cite: 14, 20].
 
----
+🛠️ My Technical Skills
+🐍 Python: Data cleaning and analysis.
 
-### 🚀 Experience & Internships
-- [cite_start]**Edunet Foundation:** AI and Data Analytics Intern focusing on Green Skills and sustainability[cite: 25, 28].
-- [cite_start]**TechSaksham (Microsoft & SAP):** AI Intern working on data cleaning and simple ML models using Python[cite: 31, 32, 36].
 
----
 
-### 📊 Certifications
-- [cite_start]Data Analyst Skill Certification[cite: 12].
-- [cite_start]Microsoft Excel: Beginner to Expert[cite: 9].
-- [cite_start]AI: Transformative Learning[cite: 10].
+🗄️ SQL: Managing and querying databases.
 
-[cite_start]📫 **How to reach me:** [LinkedIn](https://www.linkedin.com/in/dhammadeep-ramteke) [cite: 4]
+
+
+📈 Excel: Advanced data organization (Beginner to Expert).
+
+
+🤖 AI & ML: Basic Machine Learning and Artificial Intelligence.
+
+
+💼 Internships & Experience
+Edunet Foundation | AI & Data Analytics Intern 
+
+Worked on using AI and Data to help with environmental sustainability.
+
+TechSaksham (Microsoft & SAP) | AI Intern 
+
+Used Python to clean data and built simple Machine Learning models.
+
+📜 Certifications
+✅ Data Analyst Skill Certification 
+
+📊 Microsoft Excel (Beginner to Expert 2024) 
+
+🧠 AI: Transformative Learning 
+
+📂 Introduction to Data Analytics Career Skills 
+
+📫 Let's Connect!
+
+LinkedIn: linkedin.com/in/dhammadeep-ramteke 
+Email: ramtekedhamma30@gmail.com 
+
+Location: Chhatrapati Sambhajinagar, Maharashtra, India
